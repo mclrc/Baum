@@ -1,4 +1,4 @@
-NAMES := Main Tree Node TreeEnd TreeElement
+NAMES := Main Tree Node TreeEnd TreeElement TraversalOrder
 SOURCEFILES := $(addsuffix .java, $(addprefix src/, $(NAMES)))
 DISTFILES := $(addsuffix .class, $(addprefix dist/, $(NAMES)))
 
