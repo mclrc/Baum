@@ -1,4 +1,4 @@
-NAMES := Main Tree Node TreeEnd TreeElement TraversalOrder
+NAMES := Main Tree Node TreeEnd TreeElement TraversalOrder BoxStall BoxerIn
 SOURCEFILES := $(addsuffix .java, $(addprefix src/, $(NAMES)))
 DISTFILES := $(addsuffix .class, $(addprefix dist/, $(NAMES)))
 

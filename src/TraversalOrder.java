@@ -1,4 +1,4 @@
-public enum TraversalOrder {
+enum TraversalOrder {
 	INORDER,
 	POSTORDER,
 	PREORDER
